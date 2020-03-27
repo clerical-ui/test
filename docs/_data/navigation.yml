@@ -25,14 +25,14 @@ docs:
         url: /docs/web-components-and-metadata/
       - title: "Events"
         url: '/docs/events/'
-  - title: "State Management"
-      children:
+  - title: State Management
+    children:
       - title: "Built-in State Management"
         url: /docs/built-in-state-management/
       - title: "Custom State Management"
         url: '/docs/custom-state-management/'
-  - title: "Design Patterns"
-      children:
+  - title: Design Patterns
+    children:
       - title: "Controllers and Events"
         url: /docs/controllers-and-events/
       - title: "Web Components First"
